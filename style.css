@@ -203,3 +203,10 @@ body{
   margin: 15px 0 20px;
   color: #ffffff;
 }
+
+@media (max-width: 576px){
+  .quiz-container {
+    background-color: #;
+    margin: 30px 20px !important;
+  }
+}
