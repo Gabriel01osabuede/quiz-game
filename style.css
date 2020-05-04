@@ -14,6 +14,16 @@ body{
     color: #ffffff;
     top: 0;
 }
+.footer{
+    text-align: center;
+    width: 100%;
+    height: auto;
+    background-color: black;
+    color: #ffffff;
+    bottom: 0;
+    padding: 10px;
+
+}
 
 *{
   box-sizing: border-box;
