@@ -209,6 +209,28 @@ body{
   .quiz-container {
     margin: 30px 20px !important;
   }
+
+  .btn{
+    color: red;
+    float: right;
+  }
+
+    .answers-tracker div.correct{
+      background-color: green;
+      background-image: url("correct.jpg");
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: 50%;
+    }
+
+    .answers-tracker div.wrong{
+      background-image: url("wrong.png");
+      background-color: red;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: 50%;
+    }
+
 }
 
 @media (max-width: 768px) {
